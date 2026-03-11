@@ -11,7 +11,7 @@ student performance factors
 
 Student performance is influenced by several academic, social, and lifestyle factors. Understanding these factors can help educators and policymakers design better strategies to improve learning outcomes.
 
-Dataset
+### Dataset
 
 The dataset contains student-related information including:
 
@@ -39,9 +39,9 @@ Gender
 
 Exam Scores
 
-Technologies Used
+### Technologies Used
 
-Programming Language
+##### Programming Language
 
 Python
 
