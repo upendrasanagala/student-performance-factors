@@ -7,11 +7,11 @@ The analysis considers multiple variables such as attendance, parental support, 
 
 student performance factors
 
-# Problem Statement
+## Problem Statement
 
 Student performance is influenced by several academic, social, and lifestyle factors. Understanding these factors can help educators and policymakers design better strategies to improve learning outcomes.
 
-### Dataset
+## Dataset
 
 The dataset contains student-related information including:
 
@@ -39,9 +39,9 @@ Gender
 
 Exam Scores
 
-### Technologies Used
+## Technologies Used
 
-##### Programming Language
+### Programming Language
 
 Python
 
@@ -57,19 +57,19 @@ Seaborn
 
 Scikit-learn
 
-Tools
+### Tools
 
 Jupyter Notebook / Google Colab
 
 Tableau / Power BI (optional for visualization)
 
-Project Workflow
+## Project Workflow
 
-Data Collection
+### Data Collection
 
 Dataset collected from educational data sources.
 
-Data Preprocessing
+### Data Preprocessing
 
 Handle missing values
 
@@ -77,11 +77,11 @@ Encode categorical variables
 
 Normalize numerical features
 
-Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis (EDA)
 
 Identify trends and patterns using graphs and statistics.
 
-Machine Learning Models
+### Machine Learning Models
 
 Decision Tree
 
@@ -95,7 +95,7 @@ R² score
 
 Cross-validation
 
-Key Insights
+## Key Insights
 
 Attendance and motivation strongly influence student performance.
 
@@ -103,7 +103,7 @@ Parental involvement has a positive correlation with exam results.
 
 Adequate sleep and consistent study habits improve academic outcomes.
 
-Advantages
+## Advantages
 
 Helps identify students who may require additional academic support.
 
@@ -111,7 +111,7 @@ Enables data-driven decision making in education.
 
 Supports personalized learning strategies.
 
-Future Improvements
+## Future Improvements
 
 Include psychological and emotional factors.
 
@@ -119,14 +119,10 @@ Use larger datasets for more accurate predictions.
 
 Develop dashboards for real-time performance monitoring.
 
-Dataset Source
+## Dataset Source
 
 Kaggle Student Performance Dataset
 
-Author
+## Author
 
 Project developed as part of a Data Analysis Project.
-
-If you want, I can also give you a better GitHub README that looks very professional (with badges, project structure, and visuals). That version makes your GitHub profile look much stronger to recruiters.
-
-Sources
